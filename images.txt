@@ -7,7 +7,7 @@ bestoray/pgyvpn
 bpatrik/pigallery2
 difegue/lanraragi
 emby/embyserver
-homeassistant_home-assistant
+homeassistant/home-assistant
 jellyfin/jellyfin
 jonnyan404/verysync
 linuxserver/transmission
@@ -19,4 +19,3 @@ xhofe/alist
 xiaoyaliu/alist
 zerotier/zerotier
 p3terx/ariang
-
