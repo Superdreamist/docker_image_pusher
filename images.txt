@@ -3,18 +3,19 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
-bestoray_pgyvpn
-bpatrik_pigallery2
-difegue_lanraragi
-emby_embyserver
+bestoray/pgyvpn
+bpatrik/pigallery2
+difegue/lanraragi
+emby/embyserver
 homeassistant_home-assistant
-jellyfin_jellyfin
-jonnyan404_verysync
-linuxserver_transmission
-nevinee_qbittorrent
-p3terx_aria2-pro
-snowdreamtech_frps
-talebook_talebook
-xhofe_alist
-xiaoyaliu_alist
-zerotier_zerotier
+jellyfin/jellyfin
+jonnyan404/verysync
+linuxserver/transmission
+nevinee/qbittorrent
+p3terx/aria2-pro
+snowdreamtech/frps
+talebook/talebook
+xhofe/alist
+xiaoyaliu/alist
+zerotier/zerotier
+p3terx/ariang
