@@ -11,6 +11,7 @@ homeassistant/home-assistant
 jellyfin/jellyfin
 jonnyan404/verysync
 linuxserver/transmission
+linuxserver/qbittorrent
 nevinee/qbittorrent
 p3terx/aria2-pro
 snowdreamtech/frps
